@@ -1,0 +1,6 @@
+{
+  "name": "西恩贝销售管理系统",
+  "description": "西恩贝销售管理系统，支持订单管理、当日订单退款二次确认、退款单生成与管理、以及财务收益流水账目记录。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
